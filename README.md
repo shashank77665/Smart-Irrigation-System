@@ -31,20 +31,14 @@ Project Architecture
 
 Screenshots
 -----------
-1. **App Dashboard**  
-   ![Screenshot 1](screenshot/1.png)
+
+   <img src="screenshot/1.png"  width="300"/>
+    <img src="screenshot/2.png"  width="300"/>
+     <img src="screenshot/3.png"  width="300"/>
+      <img src="screenshot/4.png"  width="300"/>
+       <img src="screenshot/5.png"  width="300"/>
    
-2. **Moisture Levels Display**  
-   ![Screenshot 2](screenshot/2.png)
-   
-3. **Pump Control Status**  
-   ![Screenshot 3](screenshot/3.png)
-   
-4. **Automatic Mode Activation**  
-   ![Screenshot 4](screenshot/4.png)
-   
-5. **Manual Mode Activation**  
-   ![Screenshot 5](screenshot/5.png)
+
 
 
 * * * * *
